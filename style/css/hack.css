@@ -1,0 +1,52 @@
+﻿@charset "utf-8";
+/* CSS Document */
+input {border:0;outline:none;}
+
+#personal_page .person_info {margin:40px 0 !important;}
+#personal_page .person_info {*margin:41px 0 !important;}
+#header .login_register.register_free a {float:left;}
+
+.sex ,.age, .address {*position:relative;}
+.his_infomation span {*position:absolute;*top:0;*right:0;}
+
+.pi3 .hr_line {*margin:0;}
+
+.ex {overflow:hidden;}
+
+.com .body {*padding:0 !important;*margin:0 !important;}
+.share_box {*margin:0 !important;*height:30px;*position:relative;}
+.share_box .share_m {*position:absolute;*left:0;*top:-40px;}
+
+.pi3 .menu_info .info_one {line-height:22px;}
+
+.t {overflow:hidden;}
+
+.check_box {*margin:0;*position:relative;}
+.check_box input {*position:absolute;*top:0;}
+
+#autor .author_info {*width:210px !important;}
+#pic_info .author_info {*width:auto !important;}
+
+.ul_input input {border:0;outline:none;}
+
+.com .body {*float:right;*width:835px;}
+.reply_body .body {*float:right;*width:765px;}
+.reply_input .body {*float:right;*width:765px;}
+
+.body_text {*position:relative;}
+.body_text .reply {*position:absolute;*right:0;*top:0;}
+
+#footer ul {float:left;}
+
+#eput .index_sidebar h2 {*padding:20px 0 0 0;}
+
+.message .return_message {*position:absolute;*top:14px;*right:30px;}
+.message .message_list span.right {*position:absolute;*bottom:0;*right:0;}
+.message .like_list .cancel {*position:absolute;*top:5px;*right:0;}
+.message .like_list a.do_att {*position:absolute;*top:5px;*right:0;}
+.message .like_list .right {*position:absolute;*top:5px;*right:30px;}
+.message .pic_author .author_info .right {*position:absolute;*top:5px;*right:0;}
+.message .comment .postcomment .avatar, .my .avatar {*top:0;}
+
+
+#kind_page {*overflow:hidden;}
